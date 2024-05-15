@@ -13,7 +13,6 @@
 
 # Description
 > [!NOTE]
->Le bonhomme de neige est constitué de :
 > - Il n'y a pas de rendu pour les tutos 0 et 1, je n'ai pas gardé d'antécédents.
 
 # Rendu
